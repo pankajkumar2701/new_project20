@@ -1,0 +1,24 @@
+{
+    "environment": {
+        "name": "Local",
+        "production": false
+    },
+    "appInsights": {
+        "instrumentationKey": ""
+    },
+    "logging": {
+        "console": true,
+        "appInsights": false
+    },
+    "api": {
+        "url": "API-URL"
+    },
+    "app": {
+        "title": "APP-TITLE"
+    },
+    "buildInfo": {
+        "number": "1.0.0.0",
+        "createdOn": "GENERATED-ON"
+    },
+    "environments": []
+}
